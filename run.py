@@ -1,6 +1,6 @@
 from tkinter import *
 import random
-
+from pygame import mixer
 import time
 
 Root = Tk()
@@ -10,6 +10,10 @@ Root.geometry("1280x720")
 Root.wm_iconbitmap("icon.ico")
 LARGE_FONT = ("Verdana", 23)
 
+mixer.init(44100)
+
+clock = mixer.Sound("Ticking-clock.wav")
+alarm = mixer.Sound("alarm.wav")
 
 
 class Timer:
@@ -18,9 +22,19 @@ class Timer:
         for czas in range(60, -1, -1):
             sf = "{:02d}:{:02d}".format(*divmod(czas, 120))
             time.sleep(1)
+            if sf == '00:13':
+                clock.play()
+            if sf == '00:01':
+                alarm.play()
+
 
             czas_okno = Label(Root, text=(sf), wraplength=300, justify=LEFT, bg="blue", fg='ivory', font=LARGE_FONT, width=10, height=5)
             czas_okno.grid(column=2, row=5)
+
+
+
+
+
             Root.update()
 
 
