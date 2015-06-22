@@ -9,11 +9,30 @@ RTitle = Root.title("kalambur.01")
 Root.geometry("1280x720")
 Root.wm_iconbitmap("icon.ico")
 LARGE_FONT = ("Verdana", 23)
+PKT_FONT =("Verdana", 15)
 
 mixer.init(44100)
 
 clock = mixer.Sound("Ticking-clock.wav")
 alarm = mixer.Sound("alarm.wav")
+
+
+class Puntkacja:
+
+
+
+
+
+    def d_niebieska(self):
+        pkt = '10'
+
+        niebieska = Label(Root, text=("niebieska:"), wraplength=300, justify=LEFT, fg='blue', font=PKT_FONT, width=10, height=5)
+        niebieska.grid(column=6, row=1)
+
+
+
+
+
 
 
 class Timer:
@@ -44,7 +63,7 @@ class Haslo:
     def losuj(self):
 
         self.line = random.choice(open('hasla.txt').readlines())
-        okno = Label(Root, text=(self.line),wraplength=300, justify=LEFT, bg="blue", fg='ivory',font=LARGE_FONT, width=50, height=10)
+        okno = Label(Root, text=(self.line),wraplength=300, justify=LEFT, bg="blue", fg='ivory',font=LARGE_FONT, width=30, height=10)
         okno.grid(column=2, row=2)
 
         print(self.line)
@@ -61,15 +80,18 @@ class MainWindow(Haslo, Timer):
         haslo.losuj()
 
         odlicz = Timer()
-      # odlicz.countDown()
+
+        gracze = Puntkacja()
+        gracze.d_niebieska()
+
 
 
 
         Label(text='Kalambury by Mariusz ').grid(column=4, row=0)
         Label(text='').grid(column=1, row=3, sticky=('n', 's'))
-        Label(text='Haslo').grid(column=2, row=1)
-        Button(Root, text="Losuj", height=8, width=15, bg="pink", command=(self.losuj)).grid(column=6, row=2)
-        Button(Root, text="Czas start", height=8, width=15, bg="pink", command=(odlicz.countDown)).grid(column=6, row=5)
+
+        Button(Root, text="Losuj", height=8, width=15, bg="pink", command=(self.losuj)).grid(column=5, row=2)
+        Button(Root, text="Czas start", height=8, width=15, bg="pink", command=(odlicz.countDown)).grid(column=5, row=5)
 
 
 
