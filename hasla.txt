@@ -1,4 +1,78 @@
-kategoria : FILM            has≥o: DEMONY WOJNY WED£UG GOI
-kategoria : MUZYKA          has≥o: CZERWONE GITARY
-kategoria : PRZYS£OWIA      has≥o: BABA Z WOZU KONIOM LØEJ
-kategoria : PRZYS£OWIA      has≥o: ØEBY K”ZKA NIE SKAKA£A TO BY N”èKI NIE Z£AMA£A
+FILM;DEMONY WOJNY WED£UG GOI
+MUZYKA;CZERWONE GITARY
+PRZYS£OWIA;BABA Z WOZU KONIOM LØEJ
+PRZYS£OWIA;ØEBY K”ZKA NIE SKAKA£A TO BY N”ØKI NIE Z£AMA£A
+PRZYS£OWIA;A co po czyjej wielkoúci, jak nie ma w g≥owie mπdroúci
+PRZYS£OWIA;Apetyt roúnie w miarÍ jedzenia.
+PRZYS£OWIA;Atak jest najlepszπ obronπ.
+PRZYS£OWIA;Biednemu zawsze wiatr w oczy.
+PRZYS£OWIA;Bogatemu to i byk siÍ ocieli.
+PRZYS£OWIA;ByÊ pracowitym jak pszczo≥a.
+PRZYS£OWIA;Cel uúwiÍca úrodki.
+PRZYS£OWIA;Co ciÍ nie zabije, to ciÍ wzmocni.
+PRZYS£OWIA;Co dwie g≥owy, to nie jedna.
+PRZYS£OWIA;Co ma wisieÊ, nie utonie.
+PRZYS£OWIA;Co z oczu, to z serca.
+PRZYS£OWIA;Co za duøo ñ to niezdrowo.
+PRZYS£OWIA;Czas to pieniπdz
+PRZYS£OWIA;Czego Jaú siÍ nie nauczy, tego Jan nie bÍdzie umia≥
+PRZYS£OWIA;Cz≥owiek cz≥owiekowi wilkiem
+PRZYS£OWIA;CzuÊ siÍ jak ryba w wodzie
+PRZYS£OWIA;Daj kurze grzÍdÍ, a ona: wyøej siÍdÍ
+PRZYS£OWIA;Darowanemu koniowi w zÍby siÍ nie zaglπda
+PRZYS£OWIA;Dla chcπcego nic trudnego
+PRZYS£OWIA;Do trzech razy sztuka
+PRZYS£OWIA;DopÛty dzban wodÍ nosi, dopÛki mu siÍ ucho nie urwie
+PRZYS£OWIA;Dzieci i ryby g≥osu nie majπ
+PRZYS£OWIA;Elektryka prπd nie tyka
+PRZYS£OWIA;Fortuna ko≥em siÍ toczy
+PRZYS£OWIA;Gdzie drwa rπbiπ, tam wiÛry lecπ
+PRZYS£OWIA;Gdy kota nie ma, myszy harcujπ
+PRZYS£OWIA;Gdzie diabe≥ nie moøe, tam babÍ poúle
+PRZYS£OWIA;Gdzie dwÛch PolakÛw, tam trzy zdania
+PRZYS£OWIA;Gdzie dwÛch siÍ bije, tam trzeci korzysta
+PRZYS£OWIA;Gdzie kucharek szeúÊ, tam nie ma co jeúÊ
+PRZYS£OWIA;G≥odnemu chleb na myúli
+PRZYS£OWIA;G≥upich nie siejπ, sami siÍ rodzπ
+PRZYS£OWIA;Grosz do grosza, a bÍdzie kokosza
+PRZYS£OWIA;Jak sobie poúcielesz, tak siÍ wyúpisz
+PRZYS£OWIA;Jedna jaskÛ≥ka wiosny nie czyni
+PRZYS£OWIA;Jeszcze siÍ taki nie urodzi≥, co by wszystkim dogodzi≥
+PRZYS£OWIA;Jeúli wejdziesz miÍdzy wrony, musisz krakaÊ jak i one
+PRZYS£OWIA;Krowa, ktÛra duøo ryczy, ma≥o mleka daje
+PRZYS£OWIA;Kto pod kim do≥ki kopie, ten sam w nie wpada
+PRZYS£OWIA;Kto pyta, nie b≥πdzi
+PRZYS£OWIA;K≥amstwo ma krÛtkie nogi
+PRZYS£OWIA;Kogut myúla≥ o niedzieli, a w sobotÍ ≥eb uciÍli
+PRZYS£OWIA;Kombinuje jak koÒ pod gÛrÍ
+PRZYS£OWIA;Komu w drogÍ, temu czas
+PRZYS£OWIA;Kruk krukowi oka nie wykole
+PRZYS£OWIA;Kuj øelazo pÛki gorπce
+PRZYS£OWIA;Lepiej dmuchaÊ na zimne niø siÍ gorπcym sparzyÊ
+PRZYS£OWIA;Lepiej pÛüno niø wcale
+PRZYS£OWIA;Lepiej z mπdrym zgubiÊ niø z g≥upim znaleüÊ
+PRZYS£OWIA;Lepiej ze swoimi p≥akaÊ niø z obcymi skakaÊ
+PRZYS£OWIA;Lepszy wrÛbel w garúci niø go≥πb na dachu
+PRZYS£OWIA;Ten siÍ úmieje, kto siÍ úmieje ostatni
+PRZYS£OWIA;Trafi≥a kosa na kamieÒ
+PRZYS£OWIA;Trafi≥o siÍ úlepej kurze ziarno
+PRZYS£OWIA;Umar≥ krÛl, niech øyje krÛl
+PRZYS£OWIA;Wilk syty i owca ca≥a
+PRZYS£OWIA;WszÍdzie dobrze, ale w domu najlepiej
+PRZYS£OWIA;Wysz≥o szyd≥o z worka
+PRZYS£OWIA;Z duøej chmury ma≥y deszcz
+PRZYS£OWIA;Zapomnia≥ wÛ≥, kiedy cielÍciem by≥
+PRZYS£OWIA;Zgoda buduje, niezgoda rujnuje
+PRZYS£OWIA;Ziarnko do ziarnka, a zbierze siÍ miarka
+PRZYS£OWIA;∆wiczenie czyni mistrza
+PRZYS£OWIA;Øadna praca nie haÒbi
+PRZYS£OWIA;Potrzeba jest matkπ wynalazkÛw
+PRZYS£OWIA;Prawdziwych przyjaciÛ≥ poznaje siÍ w biedzie
+PRZYS£OWIA;Raz na wozie, raz pod wozem
+PRZYS£OWIA;Stara mi≥oúÊ nie rdzewieje
+PRZYS£OWIA;Strach ma wielkie oczy
+PRZYS£OWIA;Szewc bez butÛw chodzi
+PRZYS£OWIA;Nosi≥ wilk razy kilka, ponieúli i wilka
+PRZYS£OWIA;Od przybytku g≥owa nie boli
+PRZYS£OWIA;Polak, WÍgier ñ dwa bratanki, i do szabli, i do szklanki
+PRZYS£OWIA;KuÊ øelazo, pÛki gorπce
